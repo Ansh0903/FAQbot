@@ -1,0 +1,442 @@
+{
+  "apprenticeships": [
+    "Are there any age or residency requirements to apply for a Graduate Apprenticeship?",
+    "Is there a maximum age limit for Graduate Apprenticeship applicants?",
+    "What level of qualifications do I need to be eligible for a Graduate Apprenticeship?",
+    "Do I need to live and work in Scotland to qualify for a Graduate Apprenticeship?",
+    "Who pays the tuition fees for Graduate Apprenticeships?",
+    "Do I need to apply for SAAS funding every academic year as a Graduate Apprentice?",
+    "Are Graduate Apprentices entitled to student loans or other financial support?",
+    "Does being a Graduate Apprentice mean I am classified as an employee or a student?",
+    "Can Graduate Apprentices access university facilities and benefits like other students?",
+    "Does the job I do need to be related to my academic coursework in the Graduate Apprenticeship?",
+    "Am I eligible for funding if I already have a degree in the same or a different field?",
+    "What role does a workplace mentor play in a Graduate Apprenticeship?",
+    "Who can act as a workplace mentor for a Graduate Apprentice?",
+    "Can I continue my studies if I lose my job during the Graduate Apprenticeship?",
+    "What happens if my employer can no longer support my Graduate Apprenticeship?",
+    "Is Council Tax exemption available to Graduate Apprentices?",
+    "Do Graduate Apprentices need to work a certain number of hours per week?",
+    "Are there any part-time options available for Graduate Apprenticeships?",
+    "Can I switch to a new employer during my Graduate Apprenticeship?",
+    "What kind of support does the university provide during a Graduate Apprenticeship?"
+  ],
+
+  
+    "apprenticeship_employers":[
+      "Who provides the funding for Graduate Apprenticeships?",
+      "Is there a funding body responsible for covering GA tuition fees?",
+      "Do employers need to contribute to the education costs of GAs?",
+      "Are there any hidden fees involved in offering a GA?",
+      "Does SAAS fund the Graduate Apprenticeships directly?",
+      "Can startups participate in the GA program?",
+      "Are micro-businesses eligible to host a Graduate Apprentice?",
+      "Is there a minimum company size required to join the scheme?",
+      "Do small companies receive full funding support for GAs?",
+      "Can non-levy paying companies offer Graduate Apprenticeships?",
+      "What\u2019s the minimum wage a GA should receive?",
+      "Is it mandatory to follow National Minimum Wage guidelines for GAs?",
+      "Should GAs receive the same benefits as other staff?",
+      "Does the salary change during the apprenticeship duration?",
+      "Is the Scottish Living Wage recommended for GAs?",
+      "Do employers influence the academic content of a GA's degree?",
+      "How are GA learning goals aligned with workplace objectives?",
+      "Can the job role be tailored to match university modules?",
+      "Are work-based learning modules jointly designed with employers?",
+      "Do companies have input into GA module selection?",
+      "Can line managers act as mentors for GAs?",
+      "Is mentoring mandatory in the GA programme?",
+      "Should mentors be from a similar academic background?",
+      "Can recent graduates serve as mentors?",
+      "What responsibilities does a workplace mentor have?",
+      "Should GAs rotate through different departments?",
+      "What kinds of entry-level tasks suit new GAs?",
+      "How do job roles evolve during the apprenticeship?",
+      "What skills are typically developed through daily GA work?",
+      "Can employers give GAs project-based work early on?",
+      "Do apprentices get extra days off during university exams?",
+      "Is it required to give GAs leave for test preparation?",
+      "How does day release cover exam preparation?",
+      "Is study leave during exams part of the 20% off-the-job training?",
+      "Can employers choose to offer extra time off for exams?",
+      "Can a GA take a break from studies for health reasons?",
+      "Is there a maximum time a study suspension can last?",
+      "Do employers need to approve a GA\u2019s academic break?",
+      "What conditions must be met to pause a GA course?",
+      "Can a GA resume where they left off after suspension?",
+      "Will a GA receive any qualification if they don\u2019t finish?",
+      "Can GAs retake failed modules?",
+      "What are the consequences of a failed assessment?",
+      "Do GAs get support if they are struggling academically?",
+      "Is there an option to exit early with a certificate?",
+      "Does the employer owe anything if a GA resigns?",
+      "Can GAs transfer to another company if they quit?",
+      "Will SAAS or the university reclaim funding if a GA drops out?",
+      "Are employers responsible for finding a new placement?",
+      "Can GAs finish their degree if they switch employers?"
+    ],
+
+  
+    "application_process":[
+      "What specifically are you trying to find out about: What code should I use to apply to Edinburgh Napier?",
+      "What specifically are you trying to find out about: How much is the UCAS application fee?",
+      "What specifically are you trying to find out about: How should I structure my personal statement for UCAS?",
+      "What specifically are you trying to find out about: How do I apply for a part-time course?",
+      "What specifically are you trying to find out about: Can college students get advanced entry into courses?",
+      "What specifically are you trying to find out about: What are access courses and who are they for?",
+      "What specifically are you trying to find out about: What are the requirements for international applicants?",
+      "What specifically are you trying to find out about: Can I defer my university place for a year?",
+      "What specifically are you trying to find out about: What is UCAS Extra and how does it work?",
+      "What specifically are you trying to find out about: What is the UCAS Clearing process?",
+      "What specifically are you trying to find out about: What is the process for transferring from another university?",
+      "What specifically are you trying to find out about: Where can I apply for a Graduate Apprenticeship?",
+      "What specifically are you trying to find out about: Who can I contact for help with picking a course or applying?"
+    ],
+  
+  "exam_extenuating_circumstances": [
+    "Are you asking for details about exam timetables or schedules?",
+    "Do you want to know more about exam timetables or schedules?",
+    "Can you clarify if you're asking about exam timetables or schedules?",
+    "Would you like more information on exam timetables or schedules?",
+    "Is your question related to exam timetables or schedules?",
+    
+    "Are you asking for details about support or accessibility services during exams?",
+    "Do you want to know more about support or accessibility services during exams?",
+    "Can you clarify if you're asking about support or accessibility services during exams?",
+    "Would you like more information on support or accessibility services during exams?",
+    "Is your question related to support or accessibility services during exams?",
+    
+    "Are you asking for details about what to do if you miss an exam?",
+    "Do you want to know more about what to do if you miss an exam?",
+    "Can you clarify if you're asking about what to do if you miss an exam?",
+    "Would you like more information on what to do if you miss an exam?",
+    "Is your question related to what to do if you miss an exam?",
+	 "Are you asking what to do if unforeseen events affect your exam performance?",
+  "Do you want to know how to report circumstances that impacted your exam results?",
+  "Is your question about submitting evidence for exam-related extenuating circumstances?"
+
+  ],
+
+  "online_exam": [
+    "Are you asking about support or accessibility services available during online exams?",
+    "Do you need help understanding accessibility options for online exams?",
+    "Is your question related to accommodations or support during online assessments?",
+    
+    "Are you asking what equipment or items are allowed during online exams?",
+    "Do you want to know which tools or materials can be used in an online exam?",
+    "Can you clarify if you're referring to permitted devices or resources in online assessments?"
+  ],
+
+  "exam_schedule": [
+    "Are you asking about the exam timetable or the schedule for your upcoming exams?",
+    "Do you need help finding out when your exams are scheduled?",
+    "Is your question about where your exams will take place or which venue you're assigned to?",
+    "Would you like more information on how to check your exam dates and locations?",
+	"Are you asking when and where your exams are scheduled?",
+  "Would you like to know how to check the exam timetable?",
+  "Is your query about exam clashes or overlapping exam dates?"
+  ],
+
+  "exam_delivery": [
+    "Are you asking about the different formats or modes in which exams are delivered (e.g., online, in-person, open-book)?",
+    "Is your question about what steps to take if you're unable to attend an exam?",
+    "Would you like help understanding support options available to you during the exam delivery process?",
+    "Are you trying to find out how exams will be administered or submitted?",
+    "Do you need information about how to access technical support if you're having issues during an online exam?"
+  ],
+
+  "exam_support": [
+    "Are you asking about academic support or accommodations available during exams?",
+    "Do you need help understanding what accessibility services are offered for students during exams?",
+    "Are you trying to find out what to do if you're unable to attend your exam due to illness or emergency?",
+    "Is your question about which materials or devices are allowed in the exam room?",
+    "Would you like information about university policies regarding academic integrity during exams?",
+	"Are you asking about academic support options during exams?",
+  "Do you need help understanding accessibility accommodations for exams?",
+  "Are you asking what to do if you're unwell or face an emergency during an exam?"
+  ],
+
+  "exams": [
+    "Are you asking for details about the exam venue or where your exam will take place?",
+    "Do you want to know the location assigned for your upcoming exam?",
+    "Can you clarify if you're asking about where your exam is scheduled to happen?",
+    "Would you like help finding your exam room or location?",
+    "Is your question about the place where your exam will be held?",
+
+    "Are you asking about what items or equipment you’re allowed to bring to the exam?",
+    "Do you want to know the rules on what materials can be used during exams?",
+    "Can you clarify if you're asking about permitted items like calculators or notes?",
+    "Would you like more information on what's allowed in the exam hall?",
+    "Is your question related to exam materials or allowed resources?",
+
+    "Are you asking about support or accessibility services available for exams?",
+    "Do you need information about accommodations for disabilities during exams?",
+    "Can you clarify if you’re looking for special arrangements or extra time?",
+    "Would you like more details on exam accessibility or support options?",
+    "Is your question about adjustments available for exam conditions?",
+
+    "Are you asking about the university’s academic integrity or cheating policy for exams?",
+    "Do you want to know the rules about plagiarism or misconduct during exams?",
+    "Can you clarify if you're asking about exam honesty or ethical guidelines?",
+    "Would you like help understanding the academic integrity rules for exams?",
+    "Is your question related to what counts as cheating in an exam?",
+
+    "Are you asking when your exam is scheduled?",
+    "Do you want to find your exam timetable or exam schedule?",
+    "Can you clarify if you’re asking about the date and time of your exams?",
+    "Would you like assistance checking your exam schedule?",
+    "Is your question about when and how to find your exam timetable?",
+
+    "Are you asking what to do if you miss an exam or are unable to attend?",
+    "Do you need information on reporting an absence for an exam?",
+    "Can you clarify if you're asking about what happens if you miss an exam?",
+    "Would you like details about exam deferral or rescheduling?",
+    "Is your question about the procedure after missing an exam?"
+  ],
+
+"accommodation_facilities":[
+    "Are you asking for a general description of the student flats?",
+    "Would you like to know what the student flats are like overall?",
+     "Is your question about the style and layout of student flats?",
+     "Do you want to know how many people usually share a flat?",
+    "Are you asking about the common features or setup of the flats?",
+     "Are you asking about the furniture and appliances provided in the flat?",
+    "Would you like to know what's already included in your room and kitchen?",
+    "Can you clarify if you're asking about what's already available in your accommodation?",
+     "Is your question about the facilities provided in your flat?",
+   "Do you want details on what furnishings and equipment are already there?",
+    "Are you asking what personal items you should bring when moving in?",
+     "Do you need a checklist of things to pack for your room, kitchen, or bathroom?",
+     "Would you like help figuring out what essentials to bring with you?",
+   "Is your question about what you'll need to supply yourself in student accommodation?",
+    "Can you clarify if you're asking about what to pack for living in the flat?"
+  
+],
+
+  "accommodation_guidelines": [
+    "Are you asking about what items are already provided in the student accommodation?",
+    "Would you like to know what personal belongings you should bring when moving in?",
+    "Is your question about what furniture and appliances are included in the flat?",
+    "Do you want details about what is available in the communal kitchen area?",
+    "Are you asking for a checklist of bedroom, kitchen, and bathroom essentials to pack?",
+    "Would you like to know whether you need to bring your own bedding or towels?",
+    "Are you trying to find out what cleaning or laundry equipment is provided in the flat?",
+    "Is your question about bringing additional electrical equipment like air fryers or fans?",
+    "Do you want to know if electrical items need to be PAT tested before use?",
+    "Are you asking about safety guidelines for using personal appliances in the accommodation?",
+    "Would you like to know if there is a TV provided or if you need your own licence?",
+    "Are you unsure whether kitchen utensils and crockery are supplied or not?",
+    "Do you want information on what documentation or IDs to bring with you at move-in?",
+    "Is your question about how to prepare for living in student accommodation at Napier?"
+  ],
+
+  "fees_and_funding": [
+    "Are you asking about available funding options such as scholarships or bursaries?",
+    "Would you like information on eligibility for tuition fee loans for postgraduate or part-time courses?",
+    "Do you want to know about tuition fee discounts for alumni or early payment?",
+    "Is your question about whether visiting students are eligible for financial support?",
+    "Are you asking about how and when to pay your tuition fees?",
+    "Would you like to know if part-time students are eligible for government funding?",
+    "Are you seeking help with applying for a tuition fee loan or understanding repayment?",
+    "Is your question about discretionary funds or emergency financial assistance?",
+    "Do you want to know whether you can combine multiple types of financial support?",
+    "Would you like clarification on how funding eligibility may vary by course or study mode?",
+    "Are you asking about tuition fees for full-time or part-time courses?",
+    "Would you like to know whether postgraduate students are eligible for tuition fee loans?",
+    "Is your question about whether visiting students need to pay fees or qualify for funding?",
+    "Are you looking for information on available discounts like early payment or alumni discounts?",
+    "Do you want details about scholarships, bursaries, or discretionary funds?",
+    "Are you asking how to apply for tuition fee loans or other financial assistance?",
+    "Would you like clarification on funding eligibility based on your course type or residency?",
+    "Is your question about combining different types of financial support?",
+    "Do you need help understanding repayment responsibilities for tuition fee loans?",
+    "Are you looking to learn more about available support for international students?"
+  ],
+
+  "it_support":[
+  "Are you having trouble logging in to your university account or email?",
+  "Is your question related to resetting your password?",
+  "Are you asking about issues with printing or topping up your print credit?",
+  "Are you having problems connecting to the university Wi-Fi?",
+  "Is your issue related to Microsoft 365 access or installation?",
+  "Are you trying to install or access software like SPSS or NVivo?",
+  "Do you need help setting up multi-factor authentication (MFA)?",
+  "Is your question about finding IT help on campus or remotely?",
+  "Are you having problems with your laptop or another personal device?",
+  "Is your query related to university network access or VPN setup?",
+  "Are you trying to access your student email through Outlook on the Web?",
+    "Do you need help using or installing Microsoft Word, Excel, or PowerPoint?",
+    "Are you looking for cloud storage options like OneDrive for saving files?",
+    "Do you want to know how to use Microsoft Teams for online meetings or calls?",
+    "Are you accessing university software or services while studying off campus?"
+],
+
+   "moodle_support":[
+    "Are you having trouble logging into Moodle?",
+    "Is your issue related to missing or incorrect module listings in Moodle?",
+    "Do you need help finding your Moodle course content?",
+    "Are you trying to access Moodle from a mobile device?",
+    "Do you need assistance setting up Respondus LockDown Browser?",
+    "Are you unsure how to submit assignments via Turnitin in Moodle?",
+    "Is your Turnitin originality report missing or delayed?",
+    "Do you want to manage your Moodle email notifications?",
+    "Are you looking for help with Moodle filters or dashboard settings?",
+    "Do you need guidance on accessing the Edinburgh Napier app for Moodle?"
+  ],
+  
+  
+  "software_access": [
+    "Are you looking for software to install on your personal device?",
+    "Do you want to know how to use the Virtual Desktop Service?",
+    "Are you trying to download MATLAB or Simulink?",
+    "Do you need help accessing Autodesk tools from home?",
+    "Are you unsure where to save your university files?",
+    "Do you want to know the difference between OneDrive and the H drive?",
+    "Are you having trouble finding software for coursework?",
+    "Are you wondering how to install Office 365 apps on your laptop?",
+    "Do you need to access SPSS or NVivo on your own computer?",
+    "Are you having problems using AppsAnywhere on your device?"
+  ],
+
+  "check_in":[
+    "Are you unable to check in because the academic didn’t share or shared a non-working one time code?",
+    "Do you want to know why the university requires you to check in?",
+    "Are you having trouble checking in due to lack of internet access or device compatibility?",
+    "Is the check in button missing or not working in the Edinburgh Napier app?",
+    "Are you not receiving check in reminders on your device?",
+    "Did you forget to check in and want to know what to do?",
+    "Do you want to view your previous check in history?",
+    "Is your timetable incorrect or not updating in the app?",
+    "Are you concerned about what data is collected and how it’s protected?"
+  ],
+
+
+  "module_selection": [
+    "Are you trying to select or change your option modules?",
+    "Do you need help resolving an error when choosing modules?",
+    "Are you unsure about how to confirm your module selections?",
+    "Do you want to amend your confirmed module choices?",
+    "Are you trying to understand what your timetable includes after module selection?",
+    "Is your question about where or how to access your module timetable?"
+  ],
+
+
+ "library_services" : [
+    "Are you asking how to borrow or return library books or laptops?",
+    "Do you want to know about borrowing limits for books or devices?",
+    "Are you looking for help with accessing online library resources or databases?",
+    "Do you need to know what to do if you receive a recall or renewal error?",
+    "Are you wondering if you can take library items abroad?",
+    "Do you want to request a specific book format, like an eBook instead of print?",
+    "Are you looking for exam papers or help accessing educational journals like Times Higher Education?"
+  ],
+
+  "international_student": [
+    "Do you need help with your student visa application or requirements?",
+    "Are you trying to contact the Visa and International Support team?",
+    "Do you want to stay in Scotland after graduation and need advice?",
+    "Are you looking for travel or employment letters related to your visa?",
+    "Do you have questions about accessing international student services or support?",
+    "Are you looking for English language support or assistance with your application?",
+    "Do you need help understanding your rights to work while studying in the UK?"
+  ],
+
+ "artificial_intelligence_tools": [
+    "Are you asking if AI tools are allowed for coursework or assignments?",
+    "Do you need help choosing a suitable AI tool for academic use?",
+    "Is your question about whether AI use must be disclosed in submissions?",
+    "Are you looking for university guidelines on generative AI tools?",
+    "Do you want to know if using AI violates academic integrity policies?"
+  ],
+  "communication_policy": [
+    "Are you asking about how the university communicates important updates?",
+    "Do you want to know where to find official announcements and notices?",
+    "Is your question about how often students receive university emails?",
+    "Are you referring to communication channels between staff and students?",
+    "Are you looking for rules on professional communication with lecturers?",
+	"Are you asking whether staff can contact you via personal email?",
+  "Is your question about how frequently students are contacted by the university?",
+  "Are you asking what platforms the university uses to send important updates?"
+  ],
+  "cyber_security": [
+    "Are you asking how to protect your university account from threats?",
+    "Do you want to report suspicious activity on your student login?",
+    "Are you looking for advice on creating secure passwords?",
+    "Do you need help identifying phishing or scam emails?",
+    "Are you asking about university policies on device and data safety?"
+  ],
+  "email_services": [
+    "Are you trying to access your university email for the first time?",
+    "Is your question about resetting a forgotten email password?",
+    "Do you want to set up your university email on your phone or laptop?",
+    "Are you having trouble sending or receiving university emails?",
+    "Do you need help with organizing or forwarding your emails?",
+	 "Are you asking about email storage limits or mailbox size?",
+  "Do you need help accessing or logging into your university email?",
+  "Is your query about sending or receiving emails through the student account?"
+  ],
+  "exam_deferral": [
+    "Are you asking how to apply for an exam deferral due to illness?",
+    "Do you want to know what documentation is needed for deferral?",
+    "Are you referring to deferring an exam to a later date?",
+    "Do you want help with deferral deadlines or process?",
+    "Are you asking what happens if a deferral request is denied?"
+  ],
+  "exams_extension": [
+    "Are you asking how to request extra time for exams or coursework?",
+    "Is your question about extension eligibility due to medical reasons?",
+    "Do you want to know how to submit an extension form?",
+    "Are you referring to the maximum extension duration allowed?",
+    "Do you need help contacting someone about your extension request?"
+  ],
+  "facility_booking": [
+    "Are you trying to book a study room or a computer suite?",
+    "Do you want to know how to reserve university facilities online?",
+    "Is your question about booking access during evenings or weekends?",
+    "Do you need help canceling or modifying a facility reservation?",
+    "Are you referring to group bookings for academic space?"
+  ],
+  "mental_health_and_wellbeing": [
+    "Are you asking about counselling services available on campus?",
+    "Do you want to talk to someone about anxiety or stress?",
+    "Is your question related to mental health support for students?",
+    "Are you looking for emergency wellbeing support?",
+    "Do you want help connecting with wellbeing advisors?"
+  ],
+  "plagiarism_and_academic_integrity": [
+    "Are you asking what counts as plagiarism?",
+    "Do you want to know how to check if your work was flagged?",
+    "Is your question about proper citation and referencing?",
+    "Are you asking whether paraphrasing is considered plagiarism?",
+    "Do you need help understanding the academic integrity policy?"
+  ],
+  "student_accounts": [
+    "Are you asking how to activate your university login?",
+    "Is your question about resetting a forgotten password?",
+    "Do you want help accessing university systems with your ID?",
+    "Are you referring to login issues or account lockout?",
+    "Do you need to update your contact or recovery details?",
+	 "Are you referring to creating or activating your student login?",
+  "Is your issue related to account access or password reset?",
+  "Are you asking which accounts students receive for email and system access?"
+  ],
+  "timetable": [
+    "Are you asking how to view your academic timetable?",
+    "Do you want to know when and where your classes are scheduled?",
+    "Is your question about changes in your course schedule?",
+    "Are you looking for help with clashes in your timetable?",
+    "Do you need instructions on accessing your timetable online?"
+  ],
+  "sport_union_and_club":[
+    "Are you asking about how to join a sports club at the university?",
+    "Do you want to know what types of sports or clubs are available?",
+    "Are you looking for information on gym or sports facility access?",
+    "Do you want details on the cost or membership fees for sports clubs?",
+    "Are you asking whether international students can join sports teams?",
+	"Are you looking for information about trials or selection processes for sports teams?",
+    "Would you like details on how to access sports events or matches on campus?",
+    "Are you asking about the opening hours of the university gym or sports centre?",
+    "Do you need help finding the contact details for a specific sports club?",
+    "Are you interested in recreational vs competitive sports options at the university?"
+  ]
+}
