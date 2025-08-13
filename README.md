@@ -1,4 +1,4 @@
-#FAQbot: University FAQ Chatbot
+#EDUbot: University FAQ Chatbot
 EduBot is an intelligent chatbot designed to assist students with frequently asked university questions. It used a hybrid Nlp pipeline model involving:
 
 - **BERT**  intent classifer
